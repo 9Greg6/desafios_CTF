@@ -2,7 +2,7 @@
 Resolvido por Gabriel Gregório de Oliveira
 > Este CTF é sobre exploração web, inspeção de elementos e cookies
 ## Sobre o desafio
-A descrição do desafio sugere que uma receita de biscoitos (flag da questão) seja encontrada no página "Cookie Monster" fornecida.
+A descrição do desafio sugere que uma receita de biscoitos (flag da questão) seja encontrada no página "Cookie Monster" fornecida: http://verbal-sleep.picoctf.net:60118/.
 ## Resolução
 Inicialmente, acessando o site é pedido um usuário e senha, não sendo importantes para a resolução da questão.
 
