@@ -6,7 +6,7 @@ A descrição do desafio sugere que há uma letra de uma canção, porém o prog
 ## Resolução
 Inicialmente é fornecido o programa em python (https://challenge-files.picoctf.net/c_verbal_sleep/9f2b86c1e1068d492f783b106f4535aeb137b0c0e31e43351f8cb82a39456a84/lyric-reader.py) juntamente com o comando netcat para executar o programa (nc verbal-sleep.picoctf.net 56688).
 
-Executando o comando, é solicitado um entrada de dados:
+Executando o comando, é solicitado uma entrada de dados:
 
 [![Input-inicial.png](https://i.postimg.cc/zX66w02X/Input-inicial.png)](https://postimg.cc/bs0mpHjK)
 
