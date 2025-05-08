@@ -8,21 +8,21 @@ Inicialmente é fornecido o programa em python (https://challenge-files.picoctf.
 
 Executando o comando, é solicitado um entrada de dados:
 
-![Input_inicial](https://github.com/user-attachments/assets/31ac7a56-1702-4ae2-bd75-b25bd454a9ad)
+[![Input-inicial.png](https://i.postimg.cc/zX66w02X/Input-inicial.png)](https://postimg.cc/bs0mpHjK)
 
 
 Digitando "refrão" por exemplo, a execução finaliza e nenhuma flag é revelada. Assim, faz-se necessário analisar o código como única saída para a resolução.
 No início do código, tem-se:
 
-![Análise1](https://github.com/user-attachments/assets/809c33ce-da65-4e79-a903-0c8ab03b4a8e)
+[![An-lise1.png](https://i.postimg.cc/LsBWpR9n/An-lise1.png)](https://postimg.cc/d7362bTY)
 
 ou seja, introdução secreta aparecerá junto com a flag.
 
 Pela análise do código e da execução do programa, fica claro que digitando o refrão correto na entrada de dados, pode-se ter a tal introdução e flag secretas.
 No código, encontramos as informações que inferem ser o possível refrão correto, ";", "RETURN " e o valor [0]:
-![Encontrando_refrão](https://github.com/user-attachments/assets/0d679986-e0cb-482f-a682-1d2ba0e3dbc6)
+[![Encontrando-refr-o.png](https://i.postimg.cc/L57CT8T0/Encontrando-refr-o.png)](https://postimg.cc/hQL14gN9)
 
 Assim, executando o programa com esse refrão, a flag é revelada:
-![Flag_encontrada](https://github.com/user-attachments/assets/bd3b1625-9fda-4ecd-bcd5-7cf60fcc5d9e)
+[![Flag-encontrada.png](https://i.postimg.cc/4N7F3p4C/Flag-encontrada.png)](https://postimg.cc/mt4SXzFV)
 
 >`picoCTF{70637h3r_f0r3v3r_75053bc3}`
