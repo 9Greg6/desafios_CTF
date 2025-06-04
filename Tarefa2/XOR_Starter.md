@@ -23,6 +23,7 @@ Replicando esse processo com cada letra da string, a flag é montada:
 Resaltando que o processo de transformação de dados é feita pelo programa selecionando o formato tido e o que se busca, objetivando automatizar e facilitar, porém pode ser feito manualmente convertendo 13 para binário (1101) e também convertendo cada caracter com a tabela base: https://qph.cf2.quoracdn.net/main-qimg-45ad8916ef8091a4ccc248e6428337ae-pjlq.
 
 Esse desafio explora conceitos importantes da Cyber Segurança e testa habilidades como a compreensão da operação XOR a nível de bits e habilidade para manipular diferentes representações de dados (ASCII, hex, bytes), mesmo tendo um programa que o realize é valorizado o entendimento do processo por trás como explicitado.
+
 Foi possível enriquecer meu conhecimento na criptografia simétrica com princípio básico de usar uma mesma chave para cifrar e decifrar, a exemplo da propriedade da auto-inversão, além de favorecer meu pensamento computacional, desenvolvendo o raciocínio lógico de resolução.
 
 
