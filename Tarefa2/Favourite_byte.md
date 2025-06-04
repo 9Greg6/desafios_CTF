@@ -1,5 +1,5 @@
 # Favourite byte
-###### Resolvido por Gabriel Gregório de Oliveira
+###### Resolvido por @9Greg6
 > Esse desafio da Introdução ao CryptoHack modelo CTF aborda cryptografia básica com XOR em um único byte e decodificação de dados
 ## Sobre o desafio
 O enunciado propõe que uma quebra-cabeça XOR seja resolvido. Alguns dados foram escondidos usando XOR em um único byte secreto, ressaltando a necessidade de decodicação do texto em hexadecimal dado para a reolução.
