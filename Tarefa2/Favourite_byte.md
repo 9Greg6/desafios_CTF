@@ -2,7 +2,7 @@
 ###### Resolvido por @9Greg6
 > Esse desafio da Introdução ao CryptoHack modelo CTF aborda cryptografia básica com XOR em um único byte e decodificação de dados
 ## Sobre o desafio
-O enunciado propõe que uma quebra-cabeça XOR seja resolvido. Alguns dados foram escondidos usando XOR em um único byte secreto, ressaltando a necessidade de decodicação do texto em hexadecimal dado para a reolução.
+O enunciado propõe que uma quebra-cabeça XOR seja resolvido. Alguns dados foram escondidos usando XOR em um único byte secreto, ressaltando a necessidade de decodicação do texto em hexadecimal dado para a resolução.
 https://cryptohack.org/courses/intro/xorkey0/
 ## Resolução
 Inicialmente se faz necessário entender o desafio para facilitar a resolução: tem-se dados em hexadecimal e fazendo XOR com o byte secreto dados ocultados serão revelados, entre eles estará a flag.
@@ -44,9 +44,9 @@ Analisando os resultados, note que já a flag já foi encontrada:
 [![Captura-de-tela-2025-06-04-160602.png](https://i.postimg.cc/QNPpB9nX/Captura-de-tela-2025-06-04-160602.png)](https://postimg.cc/HjwJRxgK)
 
 
-Esse CTF envolve operações com XOR e um breve conhecimento de python para automatizar a resolução da questão, explorando também a decodificação de dados muito importante na área de Cyber Segurança.
+Esse CTF envolve operações com XOR e um breve conhecimento de python para automatizar a resolução da questão, explorando também a decodificação de dados, muito importante na área de Cyber Segurança.
 
-Foi possível explorar ferramentas do python além de reforçar o trabalho envolvendo mudança de formatos de dados.
+Foi possível explorar ferramentas do python, além de reforçar o trabalho envolvendo mudanças de formatos de dados.
 
 >`crypto{0x10_15_my_f4v0ur173_by7e}`
  
