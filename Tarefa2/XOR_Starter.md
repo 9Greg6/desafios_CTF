@@ -3,6 +3,7 @@
 > Esse é um desafio de introdução ao CryptoHack no modelo CTF, envolvendo operações XOR e codificação de dados.
 ## Sobre o desafio abordado
 O enunciado da questão apresenta a ferramenta XOR com uma breve introdução do seu funcionamento, exemplificando o XOR bit a bit, sendo a comparação dos bits e em caso de igualdade, há retorno de 0 (zero). Além disso, também é explicado a importância da codificação de dados no caso de XOR com strings ou com número inteiros ao invés do binário. Por fim, recebe-se a string "label" e o inteiro 13, informando que o XOR de cada caracter com o inteiro retornará a flag do desafio.
+https://cryptohack.org/courses/intro/xor0/
 ## Resolução do Desafio
 Inicialmente, tem-se a string "label" e o número inteiro 13, sendo necessário realizar a operação XOR de cada caracter com o valor informado.
 
