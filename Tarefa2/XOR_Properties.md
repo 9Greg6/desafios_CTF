@@ -6,7 +6,9 @@ O enunciado descreve a operação XOR representada por "⊕" como capaz de desfa
 
 Recebe-se a chave 1; o XOR da chave 1 com a 2; o XOR da chave 2 com a 3; por fim o XOR da flag com as chaves 1, 2 e 3, todos em formato hexadecimal (base 16). Qual é a flag?
 
-https://cryptohack.org/courses/intro/xor1/
+[![image.png](https://i.postimg.cc/PJTGDgnm/image.png)](https://postimg.cc/WFWfLf33)
+
+
 ## Resolução
 Para a resolução será usada a ferramenta XOR Calculator (https://xor.pw/#) para facilitar e automatizar os processos.
 Inicialmente é necessário entender as propriedades para poder aplicá-las da forma correta:
