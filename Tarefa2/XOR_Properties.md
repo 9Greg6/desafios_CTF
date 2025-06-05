@@ -1,5 +1,5 @@
 # XOR Properties
-###### Resolvido por Gabriel Gregório de Oliveira
+###### Resolvido por @9Greg6
 > Esse é um desafio de Introdução ao CryptoHack modelo CTF que aborda propriedades e operações XOR, bem como codificação de dados
 ## Sobre o desafio
 O enunciado descreve a operação XOR representada por "⊕" como capaz de desfazer uma cadeia de operações que criptografou a flag. Em seguida as propreidades são apresentadas: comutativa, associativa, identidade e auto-inverso, juntamente com a explicações de cada uma delas e o tipo de ferramenta que está sendo trabalhada.
